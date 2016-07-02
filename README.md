@@ -54,6 +54,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/udgam/Twitter/blob/master/Twitter/TwitterDemo2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<img src='https://github.com/udgam/Twitter/blob/master/Twitter/TwitterDemo3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
